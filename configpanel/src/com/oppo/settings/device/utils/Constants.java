@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.dirtyunicorns.settings.device.utils;
+package com.oppo.settings.device.utils;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.dirtyunicorns.settings.device;
+package com.oppo.settings.device;
 
 import android.app.ProgressDialog;
 import android.bluetooth.BluetoothAdapter;
@@ -41,7 +41,7 @@ import android.preference.PreferenceScreen;
 import android.text.TextUtils;
 import android.view.MenuItem;
 
-import com.dirtyunicorns.settings.device.utils.Constants;
+import com.oppo.settings.device.utils.Constants;
 
 import java.util.ArrayList;
 import java.util.List;

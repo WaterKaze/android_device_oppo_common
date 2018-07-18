@@ -16,7 +16,7 @@
 
 <resources>
 
-    <!-- Whether or not a device has device extras -->
-    <bool name="has_device_extras">true</bool>
+    <!-- Device specific gesture package -->
+    <string name="config_customGesturePackage">com.oppo.settings.device/com.oppo.settings.device.TouchscreenGestureSettings</string>
 
 </resources>

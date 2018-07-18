@@ -14,10 +14,10 @@
  * limitations under the License.
  */
 
-package com.dirtyunicorns.settings.device;
+package com.oppo.settings.device;
 
-import com.dirtyunicorns.settings.device.utils.Constants;
-import com.dirtyunicorns.settings.device.utils.NodePreferenceActivity;
+import com.oppo.settings.device.utils.Constants;
+import com.oppo.settings.device.utils.NodePreferenceActivity;
 
 import android.os.Bundle;
 import android.os.IBinder;
